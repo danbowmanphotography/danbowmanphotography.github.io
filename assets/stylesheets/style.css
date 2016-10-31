@@ -3946,6 +3946,10 @@ p {
 .is-fullheight {
   height: 100%; }
 
+.white {
+  color: white;
+  text-shadow: 2px 2px 2px #212121; }
+
 .logo {
   font-size: 1.5em;
   letter-spacing: 0.075em;
@@ -3965,7 +3969,7 @@ p {
   border-radius: 3px; }
 
 .hero-body {
-  background: url(https://source.unsplash.com/WvPQYDd-3Ow) no-repeat center center fixed;
+  background: url(https://source.unsplash.com/OnCwsPHn3Gw) no-repeat center center fixed;
   background-size: cover; }
 
 .nav {
